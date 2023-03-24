@@ -1,0 +1,85 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Alex100-sketch.github.io/SherborneMissal/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "The Sherborne Missal is the largest, most lavishly decorated late medieval English service book to have survived the Reformation intact. The manuscript was made for the Benedictine abbey of St Mary’s in Sherborne, Dorset. It was probably produced between 1399-1407, since it contains portraits of Robert Bruyning, abbot of Sherborne (incumbent 1385-1415), portraits and arms of Richard Mitford, bishop of Salisbury (incumbent 1396-1407), and the coat of arms of Henry V as Prince of Wales (title held 1399-1413).",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "The Sherborne Missal",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "The British Library",
+  "sequences" : [ {
+    "@id" : "http://8ffc1d6a-57ec-49a5-af0f-0222ac116d33",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://484cd62f-572c-49c4-846d-755af24e4fe5",
+      "@type" : "sc:Canvas",
+      "label" : "p.7",
+      "height" : 6780,
+      "width" : 5394,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8c63b5bc-b4cb-4272-af84-eb1ffed988bf",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100104087143.0x00000d/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100104087143.0x00000d",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "maxHeight" : 2000,
+              "maxWidth" : 2000,
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 6780,
+          "width" : 5394
+        },
+        "on" : "http://484cd62f-572c-49c4-846d-755af24e4fe5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a41270cc-ffca-4c9e-ae0f-d2a0fcc98703",
+      "@type" : "sc:Canvas",
+      "label" : "p.12",
+      "height" : 6678,
+      "width" : 5375,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://151c3afc-1290-4ce0-9f50-d692a007a57b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100104087143.0x000012/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100104087143.0x000012",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "maxHeight" : 2000,
+              "maxWidth" : 2000,
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 6678,
+          "width" : 5375
+        },
+        "on" : "http://a41270cc-ffca-4c9e-ae0f-d2a0fcc98703"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
