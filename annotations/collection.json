@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://Alex100-sketch.github.io/SherborneMissal/annotations/66a2a336055dc42c65b8f72a8db9a986.json" ],
+  "otherContent" : [ "https://Alex100-sketch.github.io/SherborneMissal/annotations/66a2a336055dc42c65b8f72a8db9a986.json", "https://Alex100-sketch.github.io/SherborneMissal/annotations/93dee8b90bca268127dc00a1fd971ca4.json" ],
   "@id" : "https://Alex100-sketch.github.io/SherborneMissal/annotations/collection.json",
   "label" : "All annotations loaded in Alex100-sketch/SherborneMissal project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
