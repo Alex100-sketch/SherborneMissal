@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Lion",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Lion</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/128608107",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-03-24T11:32:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1679657549572",
+    "dcterms:modified" : "2023-03-24T11:32:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Alex100-sketch.github.io/SherborneMissal/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1130,4984,1140,1266"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1130.38462,4984.22378h569.95105v0h569.95105v633.16783v633.16783h-569.95105h-569.95105v-633.16783z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ac30f04f-afcd-4fba-9a75-358ea40e0f8a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://484cd62f-572c-49c4-846d-755af24e4fe5"
+    } ]
+  } ],
+  "@id" : "https://Alex100-sketch.github.io/SherborneMissal/annotations/66a2a336055dc42c65b8f72a8db9a986.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
