@@ -1,0 +1,13 @@
+{
+  "id" : "https://Alex100-sketch.github.io/SherborneMissal/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Alex100-sketch/SherborneMissal project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Alex100-sketch.github.io/SherborneMissal/manifests/manifest2.json",
+    "label" : "The Sherborne Missal is the largest, most lavishly decorated late medieval English service book to have survived the Reformation intact. The manuscript was made for the Benedictine abbey of St Mary’s in Sherborne, Dorset. It was probably produced between 1399-1407, since it contains portraits of Robert Bruyning, abbot of Sherborne (incumbent 1385-1415), portraits and arms of Richard Mitford, bishop of Salisbury (incumbent 1396-1407), and the coat of arms of Henry V as Prince of Wales (title held 1399-1413)."
+  } ]
+}
