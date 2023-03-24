@@ -19,6 +19,11 @@
     } ],
     "canvases" : [ {
       "@id" : "http://484cd62f-572c-49c4-846d-755af24e4fe5",
+      "otherContent" : [ {
+        "@id" : "https://alex100-sketch.github.io/SherborneMissal/annotations/66a2a336055dc42c65b8f72a8db9a986.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Lion"
+      } ],
       "@type" : "sc:Canvas",
       "label" : "p.7",
       "height" : 6780,
@@ -51,6 +56,11 @@
     }, {
       "@id" : "http://a41270cc-ffca-4c9e-ae0f-d2a0fcc98703",
       "@type" : "sc:Canvas",
+      "otherContent" : [ {
+        "@id" : "https://alex100-sketch.github.io/SherborneMissal/annotations/93dee8b90bca268127dc00a1fd971ca4.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Goat"
+      } ],
       "label" : "p.12",
       "height" : 6678,
       "width" : 5375,
