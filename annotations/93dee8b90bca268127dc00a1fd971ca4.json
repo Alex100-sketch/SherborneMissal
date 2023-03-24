@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Goat",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Goat</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/128608107",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-03-24T11:32:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1679657579005",
+    "dcterms:modified" : "2023-03-24T11:32:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Alex100-sketch.github.io/SherborneMissal/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2334,5021,1044,1066"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2486.44478,5177.07909c96.42456,-89.52009 232.44703,-156.18267 369.12866,-156.10303v0v0c136.68163,0.07964 255.75426,62.44141 369.12866,156.10303c113.3744,93.66162 157.44159,236.38384 152.8981,376.86605c-4.5435,140.48221 -57.69769,278.72442 -152.8981,376.86605c-95.20041,98.14163 -232.44703,156.18267 -369.12866,156.10303c-136.68163,-0.07964 -272.79826,-58.27998 -369.12866,-156.10303c-96.3304,-97.82305 -152.87455,-235.26881 -152.8981,-376.86605c-0.02354,-141.59724 56.47353,-287.34596 152.8981,-376.86605z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_a6a24a59-b312-4e5a-b3e6-2bb3019400d2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://a41270cc-ffca-4c9e-ae0f-d2a0fcc98703"
+    } ]
+  } ],
+  "@id" : "https://Alex100-sketch.github.io/SherborneMissal/annotations/93dee8b90bca268127dc00a1fd971ca4.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
